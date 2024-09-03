@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-image: url(https://lh3.googleusercontent.com/fife/ALs6j_Hw1PCYvzqkWuf-I7kh-IE7oskMMy2DTvYdpmPOd04TsdhfFBwvnQsXIZXe782cKG8P7v1E_QLu0spIqMHjIQ9YEw9awXwfj00m1FTFJRgOQ819hAv7_QQaTWor2l83X0xSh6LGrN0wbnUHtSTQcOuUQaYFiGytsJ1VgcAwNKPvlM0MY_l8-PRdwcuovb1l7SedZMdQ1EiixqXf4vbC7kMbnjlfJ6XMscI8Tpeo74xtnqu7sB7Ol1EmE1XWFzBwh72U7ROgfPliKFkKFPxOIQChWBzNbt_rCgh1A20uLw0W_TqLYWujEewe8wJP4C4i9WywTnkaqZIIjPd2-ifDevymWWUXObs5TII_u9WgU6eEh5jazSqwSL8ODgUxZEPEvZFWbiNnq9PYX1gSoecKLnRhq3Za4wdSDs21u3Zb1cLYVC2TCFG-wwz5n4fy0SXXEPRzrUvfGD3vV7O8PvaZHWIjeYmFJXUgzPn77GXN6Rp_a75AFTr5OG6iYLhTJ686h7REIFjR8aJgcKJU13VyvbozIc2_MPwKD08utboPZ-5JYGpg1NgsZS9Odw2ri7_91HLBDJzAYc4zvmbxIqXvqSvkr6twe0qd1HYjt7KWcXNz3hCENNJNDnIRNcQKO-p4RIvgmguDsz24YqQs7518KywiwIparyNwmmOoTT2D4CsjIAfCdZAN83Y4K0h1WzunQfbh7-xqbuvr6m0y0x-DJHsCDlyJpk8OLvK2r4_7_tuvftWSKZ-EJktFv_7jgbNP4JWhoQOjZ6hXblBNu1X6tAoM1TJSSvsEMmq-GZW8iqS5KxcALwKxmackCvdQshB1dvdycc4J5pHxUfLIBzIeL5hPPgMuJ30LtCAuChCyLMwNVKCLoiJZ5wsRD630QkyCPP8tKhZM2o5nxHoYNo3PxW9DmsOQtj3-0PJvFQivu9oY1n9rb2Dnyf5jD5kVl1tcP5Ef_gL9BnNrtwG_4k8D7kccWmM8X9ETqEOitQSpAGoqcmOjIKcr6QXpdJsWtIB5CNQ0fvkePhkPE-4JlFVNP_atj1NAMaN3H37mhuz_OyRgLawXq0fduPkR5E_sY4V5q9uXYokSfPOU8-rIckhvZVL1SZSh26G6JAwsk45KjgRQF8OT9eQg6okc33ecXq2FyeY9dfCqRevIBounumtagKszPTYNnqKRtshtf44Cp9s6sSqXZsVdWFdCyNej-HEbHBOoU5hgmm6PDSk0TuAp7Tj1IPNs0GCI6jVCJWVV7pcE_OiwpE4MsNhVjArDxqKJ9tkRVsJG3HPtSFxbuwHBpDwhpjg3D1QJL31Y6Q--BKfCffgN94CxctZxPraWPrWRK88SDKnqnrDe7_ltkHAzYPtFl3tjmLNgs09Ds3HOKbiTXZle2ujYI6z7aopnfJpJJQyBLeIxfVi_GPROPfgGRcp4sjExDoY-LKF-AfWmnLKnbnJlbevfChy0FhnOUog64RqgUabwbUr9KKVayAcESfx8pKohbRBzDsFbOPv9zvLXPE2A0YhQlzgB6cwz9ftWGMbjyfh2EPvi_KWMYkorLpgq-oEd88BWG7azTKNkb73G-OFOlh6nbAdVlLADunw80kOaP3M1Cjm0wUcr43oqgPBQDB_k7Jhl_MnViRrQMFGHCg3ztpFbEpNLbJVlGdxI50RD0YQRtNyFgPQIycGC4L-M=w1920-h911);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    backdrop-filter: blur(6px);
+    background-position: center;
+}
+
+
+
+.inside{
+    max-width: 1400px;
+    
+    margin: auto;
+    margin-top: -10px;
+}
+
+
+.box{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+    img {
+        width: 100%;
+    }
